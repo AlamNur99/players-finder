@@ -22,7 +22,7 @@ class AppBar extends HTMLElement {
             :host {
                 display: block;
                 width: 100%;
-                background-color: #5445E5;
+                background-color: #FF8C32;
                 color: white;
                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
             }
